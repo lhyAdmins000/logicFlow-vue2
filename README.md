@@ -18,5 +18,5 @@ vue2+logicFlow1.2开发的可拖拽的图形编辑器（lf2.0版本后续迭代�
 3，比较美观的前端页面交互
 
 ### 截图
-![image](https://github.com/lhyAdmins000/logicFlow-vue2/blob/main/tinywow_20240830-133044_63478924.gif)
+![image](https://jh-filemock.mgpay.cn/2024/08/30/1439145lbbnno4lmfek37si1fiku0uos130957.jpg)
 
